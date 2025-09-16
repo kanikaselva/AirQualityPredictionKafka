@@ -22,7 +22,7 @@ producer = KafkaProducer(
 )
 
 # Simulate streaming with batching
-batch_size = 20   # send 20 rows per simulated "batch"
+batch_size = 100   # send 100 rows per simulated "batch"
 interval = 1      # delay between sends (1 second)
 
 
