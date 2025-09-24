@@ -120,4 +120,4 @@ transaction.state.log.min.isr=1
 * matplotlib
 * seaborn
 * statsmodels
-* tenserflow
+* tensorflow
