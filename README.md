@@ -105,3 +105,19 @@ transaction.state.log.min.isr=1
 ```
 ./bin/kafka-server-start.sh ./config/kraft/server.properties
 ```
+
+**To run the .py and .ipynb files, make sure the following modules are installed in your python environment:**
+
+* pandas
+* numpy
+* scikit-learn
+* kafka
+* json
+* logging
+* datetime
+* os
+* ucimlrepo
+* matplotlib
+* seaborn
+* statsmodels
+* tenserflow
